@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace = "com.example.notiffwd"
     compileSdk = 34
 
     defaultConfig {
