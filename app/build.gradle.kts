@@ -4,15 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.notiffwd"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.notiffwd"
-        minSdk = 23
-        targetSdk = 29   // <--- YEH CHANGE KAR DIYA HAI (34 se 29)
+        minSdk = 28
+        targetSdk = 34
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
     }
 
     buildTypes {
