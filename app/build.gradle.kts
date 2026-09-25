@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId = "com.example.notiffwd"
         minSdk = 23
-        targetSdk = 34
+        targetSdk = 29   // <--- YEH CHANGE KAR DIYA HAI (34 se 29)
         versionCode = 1
         versionName = "1.0"
     }
